@@ -5,7 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
+<<<<<<< HEAD
     <artifactId>unimportant</artifactId>
+=======
+    <artifactId>oop-labs</artifactId>
+>>>>>>> 8d06a201dbba51b08ff70ee164760f9304e89af9
     <version>1.0-SNAPSHOT</version>
 
     <properties>
